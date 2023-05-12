@@ -1,3 +1,9 @@
+/**
+ * @name 掌握前端开发中的单例模式——模态窗口实战
+ * @description 建议结合下面链接的文章一起阅读
+ * @link https://mp.weixin.qq.com/s/DDvYMHB0BO57XK0pJCXHyg
+ */
+
 import { useRef } from "react";
 
 import styles from "@/styles/demos/modal.module.css";
