@@ -1,29 +1,11 @@
----
-title: README
----
+# 文章配套源码
 
-## 快速开始
+![「码上花甲」公众号](./public/qrcode.png)
 
-安装依赖
+[如何在本地运行查看示例？](./START.md)
 
-```bash
-npm install
-# or
-yarn
-```
+### 2023.05
 
-启动开发服务：
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-## 访问页面
-
-打开 [http://localhost:3000/demo](http://localhost:3000/demo) 查看页面。
-
-PS: 通过 `git history` 可查看往期文章配套源码。
+- [一文读懂观察者模式：通俗易懂的 JS 例子帮你理解](./src/pages/demos/observer-pattern.tsx)
+- [掌握前端开发中的单例模式——模态窗口实战](./src/pages/demos/modal.tsx)
+- [零后台实现文件下载：React 中使用 createObjectURL 的实践经验](./src/pages/demos/download.tsx)
