@@ -1,0 +1,41 @@
+.container {
+  width: 375px;
+  padding: 10px 15px;
+  margin: 0 auto;
+}
+
+.container h1 {
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.container .subscribers p {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container .subscribers p:last-child {
+  margin-top: 5px;
+}
+
+.container .publishArea {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #efefef;
+}
+
+.container .publishArea h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.container .publishArea .submitBtns {
+  width: 100%;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
