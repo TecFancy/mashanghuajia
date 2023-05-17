@@ -24,4 +24,6 @@ pnpm dev
 
 ## 访问页面
 
-打开 [http://localhost:3000/demos/modal](http://localhost:3000/demos/modal) 查看页面。
+打开 [http://localhost:3000/demo](http://localhost:3000/demo) 查看页面。
+
+PS: 通过 `git history` 可查看往期文章配套源码。
