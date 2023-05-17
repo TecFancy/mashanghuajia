@@ -7,7 +7,7 @@
 import { useEffect, useState } from "react";
 import { Button, Input } from "antd";
 
-import styles from "@/styles/demos/observer-pattern.module.css";
+import styles from "@/styles/demo.module.css";
 
 import type { ChangeEvent } from "react";
 

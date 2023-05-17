@@ -1,0 +1,52 @@
+.container {
+  width: 375px;
+  padding: 10px 15px;
+  margin: 0 auto;
+}
+
+.container h1 {
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.container section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.container section > div {
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+.container section div h2 {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.container section .publisher {
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+.container section .publisher .input {
+  padding-bottom: 20px;
+  width: 100%;
+  resize: none;
+}
+
+.container section .publisher .submit {
+  padding-top: 10px;
+  text-align: right;
+}
+
+.container section .subscriber {
+  width: 100%;
+}
