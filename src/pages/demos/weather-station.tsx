@@ -1,6 +1,7 @@
 /**
  * @name 揭秘观察者模式的威力：深入理解与实战应用
  * @description 观察者模式 `天气预报工作站` 示例，建议结合文章一起阅读
+ * @link 
  */
 
 import { Button, message } from "antd";
